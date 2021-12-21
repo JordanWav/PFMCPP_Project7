@@ -2,7 +2,6 @@
 #include "Dragon.h"
 
 //DragonSlayer::DragonSlayer
-
 //DragonSlayer::getName
 
 void DragonSlayer::attack(Character& other)

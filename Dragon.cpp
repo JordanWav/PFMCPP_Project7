@@ -19,4 +19,5 @@ void Dragon::attack(Character &other)
 
 //Dragon::getName
 
+
 //Dragon::getStats
